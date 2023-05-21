@@ -1,0 +1,28 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: 2 4 6 8
+- text: 0 2 4 6 8
+- text: 2 4 6 8 10
+- text: 0 2 4 6 8 10
+files:
+- name: src/Task.java
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    public class Task {
+      public static void main(String[] args) {
+        // put your code here
+      }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2025#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Mon, 01 May 2023 19:54:57 UTC"
+record: -1
+selected_options:
+- 2
+local_check: false

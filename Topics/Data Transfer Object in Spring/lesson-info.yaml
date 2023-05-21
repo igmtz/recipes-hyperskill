@@ -1,0 +1,7 @@
+content:
+- Theory
+- Converting a Java class to a DTO implementation
+- DTO definition
+- Converting a DTO to a Java class implementation
+- The purposes of ModelMapper
+- DTO implementation with POJO
